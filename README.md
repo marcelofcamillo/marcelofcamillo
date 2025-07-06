@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Olá, sou Marcelo Camillo
 
-<!--
-**marcelofcamillo/marcelofcamillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apaixonado por tecnologia, desenvolvimento de software e inovação.
 
-Here are some ideas to get you started:
+🎓 **Engenheiro de Computação** formado pela [UNIFAE](https://www.fae.br/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🥇 Pós-graduado em **Desenvolvimento Web Full Stack**, **Engenharia de Software**, **Engenharia de Dados**, **Administração de Banco de Dados** e **MBA em Gestão de Tecnologia da Informação** pela [Universidade Anhanguera](https://www.anhanguera.com/).
+
+🖥️ **Especializado** em desenvolvimento full stack com **Node.js** e **React**, **APIs RESTful**, **microsserviços**, **bancos de dados relacionais** e **NoSQL**.
+
+🚀 Atualmente aprofundando conhecimentos em **React Native**, **Docker**, **AWS**, **Azure DevOps**, **.NET** e **Git**.
+
+🧑‍💻 Sempre em aprendizado contínuo, busco aplicar meus conhecimentos em projetos reais e contribuir com soluções eficientes e escaláveis.
+
+📚 Confira meus projetos e estudos aqui no GitHub!
